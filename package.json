@@ -1,0 +1,23 @@
+{
+  "name": "boilerplate-gulp-ejs",
+  "version": "0.0.1",
+  "author": "Archakov Dennis",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.14.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-ejs": "^2.2.0",
+    "gulp-pleeease": "^2.0.2",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-svg-sprite": "^1.4.0",
+    "gulp-svg-sprites": "^4.1.2",
+    "gulp-uglify": "^2.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "4.1.1",
+    "normalize.css": "^8.0.0",
+    "slick-carousel": "^1.8.1"
+  }
+}

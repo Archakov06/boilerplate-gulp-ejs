@@ -1,0 +1,15 @@
+body {
+  @include breakpoint(320px) {
+    margin: 0;
+  }
+}
+
+.container {
+  &--about {
+    .menu {
+      a {
+        color: green;
+      }
+    }
+  }
+}
